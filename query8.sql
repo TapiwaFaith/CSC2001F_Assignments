@@ -1,0 +1,1 @@
+SELECT AVG(amount) averagePayment FROM payments;
